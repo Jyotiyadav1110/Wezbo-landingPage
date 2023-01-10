@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.NavBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 10px 40px;
+    gap: 10px;
+    position: absolute;
+    width: 1439px;
+    /* width: 1456px; */
+    height: auto;
+    /* height: 103.49px; */
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(90.06deg, rgba(255, 56, 56, 0.4) -31.42%, #510D57 1.09%, #CA234B 107.21%);
+}
+.menu{
+    /* background-color: antiquewhite; */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 239px;
+    width: 1362.39px;
+    height: 83.49px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.leftSection{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 80px;
+    width: 783.39px;
+    height: 83.49px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.part1{
+    width: 210px;
+    height: 83.49px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    /* background-color: azure; */
+}
+.logo{
+    /* position: absolute; */
+    /* width: 80px; */
+    left: 0%;
+    /* right: 52.4%; */
+    top: 0%;
+    bottom: 0%;
+    cursor: pointer;
+    /* background: radial-gradient(85.56% 100.85% at 36.79% 10.2%, #FF3838 0%, #CA234B 47.92%, #510D57 100%)  */
+}
+.div-logoName{
+    cursor: pointer;
+    position: absolute;
+    /* left: 46.71%; */
+    left: 9.2%;
+    /* right: 0%; */
+    top: 17.52%;
+    bottom: 39.95%;
+    font-size: 2.5rem;
+    color: #FFFFFF;
+}
+.small{
+    position: absolute;
+    font-size: 10px;
+    top: 58%;
+    left: 12%;
+    color:#FF8DB5;
+}
+
+.part2{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 25px;
+    width: 493.39px;
+    height: 28px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.part2 ul{
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    color: white;
+}
+.rightSection{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 24px;
+    width: 340px;
+    height: 48px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.fstBtn{
+    /* display: flex;
+    flex-direction: row;
+    align-items: flex-start; */
+    padding: 14px 40px;
+    gap: 10px;
+    width: 147px;
+    height: 48px;
+    background: #2D0131;
+    border-radius: 50px;
+    color: white;
+    cursor: pointer;
+}
+.secBtn{
+    box-sizing: border-box;
+    /* display: flex;
+    flex-direction: row;
+    align-items: flex-start; */
+    cursor: pointer;
+    padding: 14px 40px;
+    gap: 10px;
+    width: 169px;
+    height: 48px;
+    color: white;
+    border: 1px solid #2D0131;
+    background: transparent;
+    border-radius: 50px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}

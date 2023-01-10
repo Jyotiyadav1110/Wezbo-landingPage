@@ -1,0 +1,171 @@
+.Banner2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 40px 40px 40px;
+    gap: 10px;
+    position: absolute;
+    width: 1439px;
+    height: 741px;
+    left: 0px;
+    top: 1413px;
+    background: linear-gradient(90.06deg, rgba(255, 56, 56, 0.4) -31.42%, #510D57 1.09%, #CA234B 107.21%);
+}
+
+.Banner2-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 19px;
+    width: 1428px;
+    height: 741px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    /* background-color: aqua; */
+}
+
+.b2fstpart {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 40px;
+
+    width: 554px;
+    height: 403px;
+    /* background-color: #CA234B; */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.b2fstletter {
+    width: 554px;
+    height: 127px;
+
+    font-family: 'Helvetica Neue LT Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 64px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.b2secletter {
+    width: 552px;
+    height: 140px;
+    font-family: 'Helvetica Neue LT Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 28px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.explore {
+    padding: 14px 40px;
+    gap: 10px;
+    width: 167px;
+    height: 56px;
+    background: #2D0131;
+    border-radius: 50px;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    color: white;
+}
+
+.b2secpart {
+    width: 785px;
+    height: 741px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.secPart1 {
+    position: absolute;
+    width: 260.32px;
+    height: 536px;
+    left: 600px;
+    top: 140px;
+    background: #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    z-index: 1;
+}
+
+.productName {
+    position: absolute;
+    width: 257px;
+    height: 20px;
+    left: 0px;
+    top: 297px;
+    font-family: 'Helvetica Neue LT Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+
+.details {
+    position: absolute;
+    width: 257px;
+    height: 84px;
+    left: 0px;
+    top: 357px;
+    font-family: 'Helvetica Neue LT Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+
+.addTocart {
+    box-sizing: border-box;
+    padding: 14px 40px;
+    gap: 10px;
+    position: absolute;
+    width: 182px;
+    height: 56px;
+    font-size: 15px;
+    left: 38px;
+    top: 457px;
+    color: white;
+    border: 1px solid #FFFFFF;
+    border-radius: 50px;
+    background: transparent;
+    cursor: pointer;
+}
+
+.secpartimg {
+    position: absolute;
+    width: 261px;
+    height: 274px;
+    left: 0px;
+    top: 0px;
+    
+}
+.secPart2{
+position: absolute;
+width: 735px;
+height: 741px;
+left: 730px;
+top: 40px;
+background: url('../../assets/b2img1.jpg');
+}
