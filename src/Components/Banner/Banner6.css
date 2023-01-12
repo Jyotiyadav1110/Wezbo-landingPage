@@ -1,0 +1,106 @@
+.Banner6-Container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 40px;
+    /* margin: 0; */
+    gap: 10px;
+    position: absolute;
+    width: 1439px;
+    height: 733px;
+    /* left: 0px; */
+    /* top: 6004px; */
+    /*UnComment this*/
+    /* top: 152px; */
+    /*Comment this*/
+    top: 4357px;
+    background: linear-gradient(90.06deg, rgba(255, 56, 56, 0.4) -31.42%, #510D57 1.09%, #CA234B 107.21%);
+}
+
+.Banner6 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 67px;
+    width: 1390px;
+    height: 653px;
+    position: absolute;
+    left: 60px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    /* background-color: #2363ca; */
+}
+
+.banner6-part1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 30px;
+    width: 669px;
+    height: 503px;
+    /* background-color: aqua; */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.banner6Text {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    /* align-items: flex-start; */
+    /* padding: 30px; */
+
+    gap: 30px;
+    width: 669px;
+    height: 407px;
+    /* background-color: brown; */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.banner6Text h1 {
+    font-size: 45px;
+}
+
+.banner6Text ol {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-left: 20px;
+}
+
+.banner6btn {
+    /* padding: 14px 40px; */
+    width: 180px;
+    height: 56px;
+    color: white;
+    background: #2D0131;
+    border-radius: 50px;
+}
+
+.banner6-part2 {
+    width: 624px;
+    height: 653px;
+    /* background-color: aqua; */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.banner6img {
+    width: 624px;
+    height: 653px;
+    left: 746px;
+    top: 32px;
+    border-radius: 20px;
+    transform: rotateZ(45deg);
+    border-top-left-radius: 25%;
+    border-top-right-radius: 25%;
+    border-bottom-right-radius: 25%;
+    border-bottom-left-radius: 25%;
+}

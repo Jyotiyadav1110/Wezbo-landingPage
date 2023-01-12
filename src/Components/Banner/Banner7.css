@@ -1,0 +1,78 @@
+.Banner7-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    padding: 50px;
+    width: 1419px;
+    height: 726px;
+    gap: 30px;
+    /* left: 0px; */
+    top: 200px;     /* Uncomment */
+    /* top: 6737px; */    /*comment */
+    top: 5170px;
+    background: #3A3A3A;
+}
+.Banner7-container img{
+    width: 250px;
+    height: 250px;
+}
+.Banner7-container h1{
+    font-size: 65px;
+    color: white;
+}
+.banner7-sign{
+width: 691px;
+height: 222.98px;
+margin-top: 20px;
+/* background-color: aquamarine; */
+}
+.rect1{
+    box-sizing: border-box;
+    position: absolute;
+    width: 691px;
+    height: 191px;
+    left: 384px;
+    /* top: 467px; */
+    top: 570px;
+    border: 1px solid #fff;
+    border-radius: 40px;
+}
+.rect2{
+    box-sizing: border-box;
+    position: absolute;
+    width: 665px;
+    height: 217px;
+    left: 395px;
+    top: 557px;
+    border: 1px solid #fff;
+    border-radius: 40px;
+}
+.rect3{
+    padding-top: 45px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    width: 580px;
+    height: 217px;
+    left: 439px;
+    top: 557px;    
+    border: 1px solid #fff;
+    border-radius: 40px;
+    gap: 35px;
+}.rect3 h2{
+    color: white;
+    font-size: 40px;
+}
+.btn7{
+/* position: absolute; */
+width: 183px;
+height: 56px;
+/* left: 148px;
+top: 168px; */
+background: #2D0131;
+border-radius: 30px;
+color :white;
+}
