@@ -15,7 +15,7 @@ function App() {
       <Header/>
       <Banner1/>
       <Banner2/>
-      {/* <Banner3/> */}
+      <Banner3/>
       <Banner4/>
       <Banner5/>
       <Banner6/>

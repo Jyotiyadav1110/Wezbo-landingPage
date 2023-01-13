@@ -7,10 +7,9 @@
     width: 1419px;
     height: 726px;
     gap: 30px;
-    /* left: 0px; */
-    top: 200px;     /* Uncomment */
-    /* top: 6737px; */    /*comment */
-    top: 5170px;
+    /* left: 0px; */     /* Uncomment */
+    top: 6862px;  
+    /* top: 5170px; */
     background: #3A3A3A;
 }
 .Banner7-container img{

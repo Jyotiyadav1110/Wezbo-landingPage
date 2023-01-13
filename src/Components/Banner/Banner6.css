@@ -9,11 +9,11 @@
     width: 1439px;
     height: 733px;
     /* left: 0px; */
-    /* top: 6004px; */
+    top: 6049px;
     /*UnComment this*/
     /* top: 152px; */
     /*Comment this*/
-    top: 4357px;
+    /* top: 4357px; */
     background: linear-gradient(90.06deg, rgba(255, 56, 56, 0.4) -31.42%, #510D57 1.09%, #CA234B 107.21%);
 }
 
@@ -84,7 +84,7 @@
 }
 
 .banner6-part2 {
-    width: 624px;
+    width: 824px;
     height: 653px;
     /* background-color: aqua; */
     flex: none;
@@ -94,8 +94,8 @@
 
 .banner6img {
     width: 624px;
-    height: 653px;
-    left: 746px;
+    height: 553px;
+    left: 846px;
     top: 32px;
     border-radius: 20px;
     transform: rotateZ(45deg);
